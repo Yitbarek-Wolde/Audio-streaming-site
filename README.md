@@ -1,6 +1,12 @@
 # Built using 
 
-## Next.js Tailwind convex
+## Next.js
+## TypeScript
+## Convex
+## OpenAI
+## Clerk
+## ShadCN
+## Tailwind CSS
  
 Music, Audio Streaming site
 
